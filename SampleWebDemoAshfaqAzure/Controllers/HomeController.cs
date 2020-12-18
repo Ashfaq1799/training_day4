@@ -15,7 +15,7 @@ namespace SampleWebDemoAshfaqAzure.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Web Application by Ashfaq..";
+            ViewBag.Message = "Web Application by Ashfaq..added content";
 
             return View();
         }
